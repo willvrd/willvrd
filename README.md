@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello world 👋
+My name is William Verde, I'm Computer Science Engineer from [Universidad Nacional Experimental del Táchira](http://www.unet.edu.ve/) - Venezuela, and my first "Hello World" was in the 'C' programming language in Borland Builder IDE in 2006 :earth_americas:
+
+### Work Experience :briefcase:
+I have worked as an Analyst and Full Stack Web Developer since 2011 in differents projects and companies.
+
+### About me :arrow_down:
+- Linkedin - [William Verde](https://www.linkedin.com/in/ingwilliamverde)
+- Website - [William Verde](https://ingwilliamverde.wordpress.com/)
 
 <!--
 **willvrd/willvrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

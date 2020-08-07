@@ -4,7 +4,7 @@ My name is William Verde, I'm Computer Science Engineer from [Universidad Nacion
 ### Work Experience :briefcase:
 I have worked as an Analyst and Full Stack Web Developer since 2011 in differents projects and companies.
 
-### Working on :computer:
+### Currently working on :computer:
 - Wordpress
 - Magento
 - Laravel

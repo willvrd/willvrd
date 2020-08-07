@@ -4,6 +4,19 @@ My name is William Verde, I'm Computer Science Engineer from [Universidad Nacion
 ### Work Experience :briefcase:
 I have worked as an Analyst and Full Stack Web Developer since 2011 in differents projects and companies.
 
+### Working on :computer:
+- Wordpress
+- Magento
+- Laravel
+- AsgardCMS
+- VueJS
+- Quasar Framework
+
+### Currently learning, researching or remembering :last_quarter_moon:
+- IA
+- IoA
+- Kubernetes
+
 ### About me :arrow_down:
 - Linkedin - [William Verde](https://www.linkedin.com/in/ingwilliamverde)
 - Website - [William Verde](https://ingwilliamverde.wordpress.com/)

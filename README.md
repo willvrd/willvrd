@@ -1,5 +1,5 @@
 ## Hello world 👋
-My name is William Verde, I'm Computer Science Engineer from [Universidad Nacional Experimental del Táchira](http://www.unet.edu.ve/) - Venezuela, and my first "Hello World" was in the 'C' programming language using Borland Builder IDE in 2006 :earth_americas:
+My name is William Verde, I'm Computer Science Engineer from [Universidad Nacional Experimental del Táchira](http://www.unet.edu.ve/) - Venezuela :earth_americas: 
 
 ### Work Experience :briefcase:
 I have worked as an Analyst and Full Stack Web Developer since 2011 in differents projects and companies.
@@ -11,11 +11,6 @@ I have worked as an Analyst and Full Stack Web Developer since 2011 in different
 - AsgardCMS
 - VueJS
 - Quasar Framework
-
-### Currently learning, researching or remembering :last_quarter_moon:
-- IA
-- IoA
-- Kubernetes
 
 ### About me :arrow_down:
 - Linkedin - [William Verde](https://www.linkedin.com/in/ingwilliamverde)

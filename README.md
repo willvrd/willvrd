@@ -5,16 +5,21 @@ My name is William Verde, I'm Computer Science Engineer from [Universidad Nacion
 I have worked as an Analyst and Full Stack Web Developer since 2011 in differents projects and companies.
 
 ### Currently working on :computer:
-- Wordpress
-- Magento
-- Laravel
-- AsgardCMS
-- VueJS
-- Quasar Framework
+
+```mermaid
+  graph TD;
+      SoftwareDevelopment-->Wordpress;
+      SoftwareDevelopment-->Magento;
+      SoftwareDevelopment-->Laravel;
+      SoftwareDevelopment-->AsgardCMS;
+      SoftwareDevelopment-->VueJS;
+      SoftwareDevelopment-->QuasarFramework;
+```
 
 ### About me :arrow_down:
 - Linkedin - [William Verde](https://www.linkedin.com/in/ingwilliamverde)
 - Website - [William Verde](https://ingwilliamverde.wordpress.com/)
+
 
 <!--
 **willvrd/willvrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

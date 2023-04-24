@@ -18,7 +18,7 @@ I have worked as an Analyst and Full Stack Web Developer since 2011 in different
 
 ### About me :arrow_down:
 - Linkedin - [William Verde](https://www.linkedin.com/in/ingwilliamverde)
-- Website - [William Verde](https://williamverde.com/)
+- Website - [William Verde](http://williamverde.com/)
 
 
 <!--

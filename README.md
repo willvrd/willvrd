@@ -1,5 +1,5 @@
 ## Hello world 👋
-My name is William Verde, I'm Computer Science Engineer from [Universidad Nacional Experimental del Táchira](http://www.unet.edu.ve/) - Venezuela :earth_americas: 
+My name is William Verde, I'm Software Engineer from [Universidad Nacional Experimental del Táchira](http://www.unet.edu.ve/) - Venezuela :earth_americas: 
 
 ### Work Experience :briefcase:
 I have worked as an Analyst and Full Stack Web Developer since 2011 in differents projects and companies.

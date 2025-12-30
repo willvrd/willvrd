@@ -1,6 +1,6 @@
 ## Hi there, I'm William Verde 👋 
 
-**Software Engineer - Senior Backend Developer | Tech Lead**
+**Software Engineer - Senior Backend Developer | Technical Leadership**
 
 I am a Software Engineer from [UNET](http://www.unet.edu.ve/) with 12+ years of experience building web applications. My focus is on creating robust backend architectures, optimizing system performance, and leading technical teams to success.
 

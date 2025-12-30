@@ -1,37 +1,26 @@
-## Hello world 👋
-My name is William Verde, I'm Software Engineer from [Universidad Nacional Experimental del Táchira](http://www.unet.edu.ve/) - Venezuela :earth_americas: 
+## Hi there, I'm William Verde 👋 
 
-### Work Experience :briefcase:
-I have worked as an Analyst and Full Stack Web Developer since 2011 in differents projects and companies.
+**Senior Backend Developer | Tech Lead | Software Engineer**
 
-### Currently working on :computer:
+I am a Software Engineer from [UNET](http://www.unet.edu.ve/) with 12+ years of experience building web applications. My focus is on creating robust backend architectures, optimizing system performance, and leading technical teams to success.
 
-```mermaid
-  graph TD;
-      SoftwareDevelopment-->Wordpress;
-      SoftwareDevelopment-->Magento;
-      SoftwareDevelopment-->Laravel;
-      SoftwareDevelopment-->AsgardCMS;
-      SoftwareDevelopment-->VueJS;
-      SoftwareDevelopment-->QuasarFramework;
-```
+---
 
-### About me :arrow_down:
-- Linkedin - [William Verde](https://www.linkedin.com/in/ingwilliamverde)
-- Website - [William Verde](http://williamverde.com/)
+### 🛠️ Tech Stack & Expertise
+
+* **Backend:** PHP, Laravel, Livewire, AsgardCMS.
+* **Database & Cache:** MySQL, Redis, PostgreSQL.
+* **Frontend:** Html, CSS, Javascript, Vue.js, Bootstrap, Preprocessors(SASS, LESS, Stylus), jQuery.
+* **Infrastructure & Tools:** Git, Docker, AWS (S3), Cloudflare, Postman.
+* **Legacy & CMS:** WordPress, Magento, Directus (Headless CMS).
+
+### 🚀 Currently focusing on
+- 🏗️ **Advanced Backend Architecture:** Design Patterns, Modular Monoliths.
+- ⚡ **Performance Optimization:** High availability and scalable web services.
+- 🤖 **AI-Enhanced Development:** Leveraging AI tools to optimize the software development lifecycle (SDLC).
+- 🛠️ **Technical Leadership:** Mentoring teams and ensuring best practices through code reviews.
 
 
-<!--
-**willvrd/willvrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/ingwilliamverde](https://www.linkedin.com/in/ingwilliamverde)
+- **Portfolio:** [williamverde.com](http://williamverde.com/)

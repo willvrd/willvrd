@@ -23,4 +23,4 @@ I am a Software Engineer from [UNET](http://www.unet.edu.ve/) with 12+ years of 
 
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/ingwilliamverde](https://www.linkedin.com/in/ingwilliamverde)
-- **Portfolio:** [williamverde.com](http://williamverde.com/)
+- **Website:** [williamverde.com](http://williamverde.com/)
